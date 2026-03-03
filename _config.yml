@@ -1,0 +1,25 @@
+title: Novacifer
+description: "Calibrating innovations, piece by piece."
+url: "https://www.novacifer.com"
+baseurl: ""
+
+author:
+  name: Julio Molina Soler
+  email: contact@novacifer.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+permalink: /:title/
+
+navigation:
+  - title: "⚙ Home"
+    url: /
+  - title: "📜 Build Log"
+    url: https://github.com/jmolinasoler/build-log
+  - title: "🔧 Projects"
+    url: /projects/
+  - title: "✉ Contact"
+    url: /contact/
