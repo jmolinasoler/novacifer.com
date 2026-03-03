@@ -13,6 +13,7 @@ description: Establish communication with the Engineer.
 The following communication relays are operational:
 
 - **⚙ LinkedIn** — [linkedin.com/in/jmolinasoler](https://www.linkedin.com/in/jmolinasoler/) — For professional transmissions and collaborative ventures
+- **⚙ X / Twitter** — [@emerjux](https://twitter.com/emerjux) — Dispatches from the Aethernet
 - **⚙ GitHub** — [github.com/jmolinasoler](https://github.com/jmolinasoler) — For inspecting the schematics
 
 <div class="section-divider">⚙ What I am receptive to ⚙</div>
