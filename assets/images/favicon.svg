@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <radialGradient id="bronze" cx="40%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#e8c87a"/>
+      <stop offset="50%" stop-color="#b8860b"/>
+      <stop offset="100%" stop-color="#6b4c00"/>
+    </radialGradient>
+    <radialGradient id="center" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#d4a843"/>
+      <stop offset="100%" stop-color="#7a5200"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Gear teeth (8 teeth) -->
+  <g fill="url(#bronze)">
+    <rect x="27" y="1"  width="10" height="12" rx="2"/>
+    <rect x="27" y="51" width="10" height="12" rx="2"/>
+    <rect x="1"  y="27" width="12" height="10" rx="2"/>
+    <rect x="51" y="27" width="12" height="10" rx="2"/>
+
+    <rect x="9"  y="9"  width="10" height="12" rx="2" transform="rotate(45 14 15)"/>
+    <rect x="9"  y="43" width="10" height="12" rx="2" transform="rotate(-45 14 49)"/>
+    <rect x="45" y="9"  width="10" height="12" rx="2" transform="rotate(-45 50 15)"/>
+    <rect x="45" y="43" width="10" height="12" rx="2" transform="rotate(45 50 49)"/>
+  </g>
+
+  <!-- Main gear body -->
+  <circle cx="32" cy="32" r="22" fill="url(#bronze)"/>
+
+  <!-- Inner ring shadow -->
+  <circle cx="32" cy="32" r="18" fill="#7a5200" opacity="0.4"/>
+
+  <!-- Inner ring -->
+  <circle cx="32" cy="32" r="16" fill="url(#center)"/>
+
+  <!-- Center hole -->
+  <circle cx="32" cy="32" r="7" fill="#1a0d00"/>
+
+  <!-- Rivet bolts -->
+  <circle cx="32" cy="17" r="2.2" fill="#e8c87a"/>
+  <circle cx="32" cy="47" r="2.2" fill="#e8c87a"/>
+  <circle cx="17" cy="32" r="2.2" fill="#e8c87a"/>
+  <circle cx="47" cy="32" r="2.2" fill="#e8c87a"/>
+
+  <!-- Shine highlight -->
+  <ellipse cx="26" cy="24" rx="5" ry="3" fill="white" opacity="0.15" transform="rotate(-30 26 24)"/>
+</svg>
