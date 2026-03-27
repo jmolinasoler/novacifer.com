@@ -35,19 +35,21 @@ Much like an intrepid voyager, one must meticulously log their expeditions. Nova
 
 <div class="section-divider">⚙ Current Ventures ⚙</div>
 
-**⚙ Autonomous Machinery** — Algorithmic trading engines operating across multiple Aetheric networks, powered by brass gears and cold logic. No human hand required at the throttle.
+**⚙ Autonomous Machinery** — Four algorithmic trading engines operating across Arbitrum, Base, Linea and Hyperliquid. Grid strategies and perpetual futures, executing every five minutes without human intervention.
 
-**⚙ Synthetic Intelligence** — A persistent AI agent anchored aboard the M900 vessel, maintaining memory across sessions and dispatching dispatches via the Electric Telegraph.
+**⚙ Synthetic Intelligence** — A persistent AI agent anchored aboard the M900 vessel, maintaining memory across sessions, monitoring infrastructure, and dispatching alerts via the Electric Telegraph. Phase 1 closed March 2026 — operational for over a year.
 
-**⚙ Sovereign Nodes** — Running independent Bitcoin and Ethereum verification engines. Trust no external oracle when you can verify the ledger yourself.
+**⚙ Sovereign Nodes** — Independent Bitcoin Core and Ethereum light-client verification running on local iron. Trust no external oracle when you can verify the ledger yourself.
 
-**⚙ Edge Computation** — Google Coral Edge TPU operational under Python 3.12 — a feat the official schematics declare impossible.
+**⚙ Regulatory Navigation** — MiCA Certificate completed March 2026. Mapping the intersection of blockchain infrastructure and EU digital asset compliance.
 
 <div class="section-divider">⚙ The Build Log ⚙</div>
 
 Every expedition deserves a log. Every failure, a lesson. Every breakthrough, a record.
 
 The **[Build Log →](https://github.com/jmolinasoler/build-log)** chronicles the raw progress — what was built, what detonated spectacularly, and what I would do differently with the benefit of hindsight.
+
+Published dispatches also appear on **[dev.to/jmolinasoler →](https://dev.to/jmolinasoler)**
 
 <div class="section-divider">⚙ Establish Contact ⚙</div>
 
