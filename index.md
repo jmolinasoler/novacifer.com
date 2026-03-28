@@ -37,11 +37,11 @@ Much like an intrepid voyager, one must meticulously log their expeditions. Nova
 
 **⚙ Autonomous Machinery** — Four algorithmic trading engines operating across Arbitrum, Base, Linea and Hyperliquid. Grid strategies and perpetual futures, executing every five minutes without human intervention.
 
-**⚙ Synthetic Intelligence** — A persistent AI agent anchored aboard the M900 vessel, maintaining memory across sessions, monitoring infrastructure, and dispatching alerts via the Electric Telegraph. Phase 1 closed March 2026 — operational for over a year.
+**⚙ Synthetic Intelligence** — A persistent AI agent anchored aboard the M900 vessel, maintaining memory across sessions, monitoring infrastructure, and dispatching alerts via the Electric Telegraph. Phase 1 closed March 2026. Phase 2 underway.
 
-**⚙ Sovereign Nodes** — Independent Bitcoin Core and Ethereum light-client verification running on local iron. Trust no external oracle when you can verify the ledger yourself.
+**⚙ Sovereign Nodes** — Independent Bitcoin Core and Ethereum light-client verification running on local iron, with a Hetzner frontier for public-facing workloads. Trust no external oracle when you can verify the ledger yourself.
 
-**⚙ Regulatory Navigation** — MiCA Certificate completed March 2026. Mapping the intersection of blockchain infrastructure and EU digital asset compliance.
+**⚙ Regulatory Navigation** — MiCA Certificate obtained March 2026. Mapping the intersection of blockchain infrastructure and EU digital asset compliance.
 
 <div class="section-divider">⚙ The Build Log ⚙</div>
 
