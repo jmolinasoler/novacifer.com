@@ -41,7 +41,7 @@ Much like an intrepid voyager, one must meticulously log their expeditions. Nova
 
 **⚙ Sovereign Nodes** — Independent Bitcoin Core and Ethereum light-client verification running on local iron, with a Hetzner frontier for public-facing workloads. Trust no external oracle when you can verify the ledger yourself.
 
-**⚙ Regulatory Navigation** — MiCA Certificate obtained March 2026. Mapping the intersection of blockchain infrastructure and EU digital asset compliance.
+**⚙ Regulatory Navigation** — MiCA Certificate obtained March 2026. Now treating regulation as infrastructure: AI Compliance Stack prototype targeting Q2 2026.
 
 <div class="section-divider">⚙ The Build Log ⚙</div>
 

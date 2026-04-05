@@ -59,9 +59,9 @@ Architecture under design. First code artifact pending.
 ### ✓ MiCA Compliance Certificate
 Markets in Crypto-Assets Regulation (MiCA) certificate obtained March 2026. Mapping the technical and regulatory intersection: what MiCA demands from infrastructure engineers, not just lawyers.
 
-Follow-on work: AI Compliance Stack — tooling to monitor regulatory change across EU digital asset frameworks.
+Follow-on: **AI Compliance Stack** — monitor regulatory change across EU digital asset frameworks. Treat compliance requirements like software dependencies: automated diff, structured alerts, routed to the relevant operator. First prototype targeting Q2 2026.
 
-**Status:** <span class="status-dot green" style="display:inline-block"></span> Completed — March 2026
+**Status:** <span class="status-dot green" style="display:inline-block"></span> Certificate completed — AI Compliance Stack: prototype in progress
 
 ---
 
