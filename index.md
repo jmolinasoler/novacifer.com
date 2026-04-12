@@ -35,7 +35,7 @@ Much like an intrepid voyager, one must meticulously log their expeditions. Nova
 
 <div class="section-divider">⚙ Current Ventures ⚙</div>
 
-**⚙ Autonomous Machinery** — Four algorithmic trading engines operating across Arbitrum, Base, Linea and Hyperliquid. Grid strategies and perpetual futures, executing every five minutes without human intervention.
+**⚙ Autonomous Machinery** — Three algorithmic trading engines operating across Arbitrum, Base, and Linea. Grid strategies executing every five minutes without human intervention. Q1 2026 returns: Arb +30.9%, Base +54.3%, Linea +111.0%. Hyperliquid perp closed after stop-out.
 
 **⚙ Synthetic Intelligence** — A persistent AI agent anchored aboard the M900 vessel, maintaining memory across sessions, monitoring infrastructure, and dispatching alerts via the Electric Telegraph. Phase 1 closed March 2026. Phase 2 underway.
 

@@ -11,12 +11,13 @@ description: Active experiments and ventures from the Novacifer workshop.
 <div class="section-divider">⚙ Active Experiments ⚙</div>
 
 ### ⚙ Autonomous Trading Engines
-Grid-based trading machinery and perpetual futures operating across four networks. Three grid bots (Arbitrum, Base, Linea) execute ETH/USDC strategies every five minutes. A fourth engine runs a leveraged ETH short on Hyperliquid, harvesting funding rates and hedging directional exposure.
+Grid-based trading machinery operating across three networks. Three grid bots (Arbitrum, Base, Linea) execute ETH/USDC strategies every five minutes.
 
-- **Arbitrum** — Grid, $14/trade, 8 levels, 2.5% spacing
-- **Base** — Grid, $5/trade, 8 levels, 2.5% spacing
-- **Linea** — Grid, $8/trade, 8 levels, 2.5% spacing
-- **Hyperliquid** — ETH Perp Short, 2× leverage, funding-rate capture
+- **Arbitrum** — Grid, $14/trade, 8 levels, 2.5% spacing — Q1 return: +30.9%
+- **Base** — Grid, $5/trade, 8 levels, 2.5% spacing — Q1 return: +54.3%
+- **Linea** — Grid, $8/trade, 8 levels, 2.5% spacing — Q1 return: +111.0%
+
+*Hyperliquid perp engine closed Q1 2026 after stop-out.*
 
 Powered by Python. No human hand at the throttle.
 
@@ -59,7 +60,7 @@ Architecture under design. First code artifact pending.
 ### ✓ MiCA Compliance Certificate
 Markets in Crypto-Assets Regulation (MiCA) certificate obtained March 2026. Mapping the technical and regulatory intersection: what MiCA demands from infrastructure engineers, not just lawyers.
 
-Follow-on: **AI Compliance Stack** — monitor regulatory change across EU digital asset frameworks. Treat compliance requirements like software dependencies: automated diff, structured alerts, routed to the relevant operator. First prototype targeting Q2 2026.
+Follow-on: **AI Compliance Stack** — monitor regulatory change across EU digital asset frameworks. Treat compliance requirements like software dependencies: automated diff, structured alerts, routed to the relevant operator. First prototype targeting Q2 2026: ESMA RSS feed → Telegram alert (simplest path, ~3h work, validate before architecting).
 
 **Status:** <span class="status-dot green" style="display:inline-block"></span> Certificate completed — AI Compliance Stack: prototype in progress
 
