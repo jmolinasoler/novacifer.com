@@ -46,12 +46,12 @@ Trust no external oracle when you can verify the ledger yourself.
 
 ---
 
-### ⚙ Aether Dynamo
-Software update monitoring for Web3 protocols and related infrastructure. Designed to surface relevant changes — protocol upgrades, client releases, regulatory shifts — before they become incidents.
+### ⚙ Crypto Compliance Stack — MiCAMap
+Treating EU digital asset regulation as infrastructure. Compliance requirements monitored like software dependencies: track changes, surface diffs, route alerts to the relevant operator before the requirement becomes an incident.
 
-Architecture under design. First code artifact pending.
+First live artefact: **[MiCAMap →](https://micadash.novacifer.com)** — an explorer for navigating MiCA and the evolving EU crypto regulatory landscape.
 
-**Status:** <span class="status-dot amber" style="display:inline-block"></span> In design
+**Status:** <span class="status-dot green" style="display:inline-block"></span> Active
 
 ---
 
@@ -60,9 +60,9 @@ Architecture under design. First code artifact pending.
 ### ✓ MiCA Compliance Certificate
 Markets in Crypto-Assets Regulation (MiCA) certificate obtained March 2026. Mapping the technical and regulatory intersection: what MiCA demands from infrastructure engineers, not just lawyers.
 
-Follow-on: **AI Compliance Stack** — monitor regulatory change across EU digital asset frameworks. Treat compliance requirements like software dependencies: automated diff, structured alerts, routed to the relevant operator. First prototype targeting Q2 2026: ESMA RSS feed → Telegram alert (simplest path, ~3h work, validate before architecting).
+Follow-on: the **Crypto Compliance Stack** — active above.
 
-**Status:** <span class="status-dot green" style="display:inline-block"></span> Certificate completed — AI Compliance Stack: prototype in progress
+**Status:** <span class="status-dot green" style="display:inline-block"></span> Certificate completed
 
 ---
 

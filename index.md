@@ -35,13 +35,7 @@ Much like an intrepid voyager, one must meticulously log their expeditions. Nova
 
 <div class="section-divider">⚙ Current Ventures ⚙</div>
 
-**⚙ Autonomous Machinery** — Three algorithmic trading engines operating across Arbitrum, Base, and Linea. Grid strategies executing every five minutes without human intervention. Q1 2026 returns: Arb +30.9%, Base +54.3%, Linea +111.0%. Hyperliquid perp closed after stop-out.
-
-**⚙ Synthetic Intelligence** — A persistent AI agent anchored aboard the M900 vessel, maintaining memory across sessions, monitoring infrastructure, and dispatching alerts via the Electric Telegraph. Phase 1 closed March 2026. Phase 2 underway.
-
-**⚙ Sovereign Nodes** — Independent Bitcoin Core and Ethereum light-client verification running on local iron, with a Hetzner frontier for public-facing workloads. Trust no external oracle when you can verify the ledger yourself.
-
-**⚙ Regulatory Navigation** — MiCA Certificate obtained March 2026. Now treating regulation as infrastructure: AI Compliance Stack prototype targeting Q2 2026.
+**⚙ Crypto Compliance Stack** — Treating EU digital asset regulation as infrastructure. [MiCAMap →](https://micadash.novacifer.com) is a live explorer for navigating MiCA and the evolving regulatory landscape for crypto assets. Compliance requirements tracked like software dependencies — diff, alert, route.
 
 <div class="section-divider">⚙ The Build Log ⚙</div>
 
