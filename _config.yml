@@ -12,6 +12,9 @@ plugins:
   - jekyll-sitemap
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  html_to_native: false
 permalink: /:title/
 
 navigation:
