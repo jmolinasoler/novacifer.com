@@ -74,6 +74,15 @@ Official documentation declares this impossible. Official documentation is wrong
 
 ---
 
+### ✓ OpenClaw — M900
+An experiment anchored to the M900 vessel, now decommissioned. The machine has been powered down; the operation is closed.
+
+A full post-mortem is being drafted — what was built, what failed, and what the instruments revealed. Dispatched when ready.
+
+**Status:** <span class="status-dot amber" style="display:inline-block"></span> Shut down — post-mortem pending
+
+---
+
 <div class="section-divider">⚙ Build Log ⚙</div>
 
 The complete expedition log is maintained at **[github.com/jmolinasoler/build-log →](https://github.com/jmolinasoler/build-log)**
