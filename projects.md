@@ -75,9 +75,13 @@ Official documentation declares this impossible. Official documentation is wrong
 ---
 
 ### ✓ OpenClaw — M900
-An experiment anchored to the M900 vessel, now decommissioned. The machine has been powered down; the operation is closed.
+A live experiment in AI agency. OpenClaw was deployed aboard a Lenovo ThinkCentre Mini M900 to answer a direct question: what can an autonomous AI agent actually do, and where does it break?
 
-A full post-mortem is being drafted — what was built, what failed, and what the instruments revealed. Dispatched when ready.
+Tasks were assigned. Behaviour was observed. Errors were catalogued. The agent showed genuine promise — until the economics revealed themselves. The cost model was not flat: as the agent accumulated memory, its appetite for API tokens grew in kind. More context, more model calls, more cost. Not a linear relationship — a spiral. The allocated funds did not survive it.
+
+The M900 has been powered down. The ledger is being reviewed.
+
+A full post-mortem is being drafted — what was built, what the instruments revealed, and what the spiral looked like from the inside.
 
 **Status:** <span class="status-dot amber" style="display:inline-block"></span> Shut down — post-mortem pending
 
