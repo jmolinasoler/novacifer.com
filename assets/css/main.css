@@ -422,3 +422,11 @@ hr::after {
   .header-inner { justify-content: center; text-align: center; }
   .logo-block { justify-content: center; }
 }
+
+/* ---- prefers-reduced-motion ---- */
+@media (prefers-reduced-motion: reduce) {
+  .gear, .logo-glyph, .footer-glyph { animation: none; }
+  .steam { animation: none; }
+  .status-dot { animation: none; }
+  .gauge-fill { animation: none; }
+}

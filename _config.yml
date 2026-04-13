@@ -14,7 +14,7 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
-  html_to_native: false
+  parse_block_html: true
 permalink: /:title/
 
 navigation:
