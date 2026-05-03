@@ -39,6 +39,18 @@ Much like an intrepid voyager, one must meticulously log their expeditions. Nova
 
 **⚙ Crypto Compliance Stack — MiCAMap** — Treating EU digital asset regulation as infrastructure. [MiCAMap →](https://micadash.novacifer.com) is an explorer for navigating MiCA and the evolving regulatory landscape. Currently in development.
 
+**⚙ Agentic AI & Observability Lab** — Exploring agentic AI patterns and LLM observability through a self-hosted Langfuse instance connected to OpenRouter. Building small agent loops, tracing their reasoning, and studying how they fail.
+
+<div class="section-divider">⚙ Completed Apparatus ⚙</div>
+
+Past experiments that ran their course — some with profit, some with lessons, all with data.
+
+**✓ Algorithmic Grid Trading** — ETH/USDC grid bots across Arbitrum (+30.9%), Base (+54.3%), and Linea (+111.0%). Shut down Q1 2026.
+**✓ Persistent AI Agent** — Autonomous infrastructure agent on local hardware. Terminated April 2026 — cost model unsustainable.
+**✓ MiCA Compliance Certificate** — Regulation mapped from an engineer's perspective. Completed March 2026.
+
+[**→ Full project archive**](/projects/)
+
 <div class="section-divider">⚙ The Build Log ⚙</div>
 
 Every expedition deserves a log. Every failure, a lesson. Every breakthrough, a record.
