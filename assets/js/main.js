@@ -7,6 +7,7 @@ document.querySelectorAll('.nav-link').forEach(link => {
       g.style.animationDuration = '3s';
     });
   });
+  
   link.addEventListener('mouseleave', () => {
     document.querySelectorAll('.logo-glyph').forEach(g => {
       g.style.animationDuration = '20s';
@@ -23,16 +24,18 @@ document.querySelectorAll('.typewriter').forEach(el => {
   const timer = setInterval(() => {
     el.textContent += text[i];
     i++;
-    if (i >= text.length) clearInterval(timer);
+    if (i >= text.length) {
+      clearInterval(timer);
+    }
   }, 35);
 });
 
 // Random flicker on page load (subtle)
-setTimeout(() => {
-  const panel = document.querySelector('.content-panel');
-  if (panel) {
-    panel.style.transition = 'opacity 0.05s';
-    panel.style.opacity = '0.92';
-    setTimeout(() => { panel.style.opacity = '1'; }, 80);
-  }
-}, 600);
+const panel = document.querySelector('.content-panel');
+if (panel) {
+  panel.style.transition = 'opacity 0.05s';
+  panel.style.opacity = '0.92';
+  setTimeout(() => { 
+    panel.style.opacity = '1'; 
+  }, 80);
+}

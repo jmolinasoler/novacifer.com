@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+_site/
+
+# Jekyll
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Langfuse Skills - cloned from github.com/langfuse/skills
+# Avoid committing the skills directory to production
+skills/

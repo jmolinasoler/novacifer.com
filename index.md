@@ -35,7 +35,9 @@ Much like an intrepid voyager, one must meticulously log their expeditions. Nova
 
 <div class="section-divider">⚙ Current Ventures ⚙</div>
 
-**⚙ Crypto Compliance Stack** — Treating EU digital asset regulation as infrastructure. [MiCAMap →](https://micadash.novacifer.com) is a live explorer for navigating MiCA and the evolving regulatory landscape for crypto assets. Compliance requirements tracked like software dependencies — diff, alert, route.
+**⚙ Social Media Reviews** — Objective technical analysis of tools through a European lens. GDPR-compliant evaluations of cloud providers, databases, and dev tools, shared on LinkedIn and Twitter/X. [Build Log →](https://github.com/jmolinasoler/build-log/blob/master/2026/W17-post1-SocialMediaReviews.md)
+
+**⚙ Crypto Compliance Stack — MiCAMap** — Treating EU digital asset regulation as infrastructure. [MiCAMap →](https://micadash.novacifer.com) is an explorer for navigating MiCA and the evolving regulatory landscape. Currently in development.
 
 <div class="section-divider">⚙ The Build Log ⚙</div>
 
