@@ -30,6 +30,17 @@ First live artefact: **[MiCAMap →](https://micadash.novacifer.com)** — an ex
 
 ---
 
+### ⚙ Agentic AI & Observability Lab
+Hands-on exploration of agentic AI patterns through a self-hosted Langfuse instance connected to OpenRouter. The goal is twofold: understand how LLM observability and tracing work in practice (traces, spans, scoring, prompt management), and study how autonomous AI agents reason, chain actions, and fail — by building small agent loops and watching them under the microscope.
+
+**Stack:** Langfuse (self-hosted), OpenRouter, Node.js
+**Scope:** Prompt tracing, cost tracking, agent loop instrumentation, failure analysis
+**Output:** Internal notes and public write-ups on findings
+
+**Status:** <span class="status-dot green" style="display:inline-block"></span> Active
+
+---
+
 <div class="section-divider">⚙ Completed ⚙</div>
 
 ### ✓ Algorithmic Grid Trading
